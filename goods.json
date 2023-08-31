@@ -1,0 +1,23 @@
+{
+	"00":{
+		"name":"YAB",
+		"cost":10,
+		"descr":"soc",
+		"order":1,
+		"img":"img/ae.png"
+	},
+	"01":{
+		"name":"LEM",
+		"cost":20,
+		"descr":"kis",
+		"order":2,
+		"img":"img/ln.png"
+	},
+	"02":{
+		"name":"BAN",
+		"cost":30,
+		"descr":"dlin",
+		"order":3,
+		"img":"img/bn.png"
+	}
+}
